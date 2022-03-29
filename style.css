@@ -1,9 +1,13 @@
 .heading
 {
 font-size: 23px;
-width: 100%;
 margin: 0px;
-background-color: beige;
+color: black;
+margin: 10px;
+}
+
+.heading:hover{
+    color: white;
 }
 
 .link {
@@ -12,4 +16,5 @@ background-color: beige;
     border-radius: 10px;
     width: 300px;
     margin-top: 15px;
+    list-style: none;
 }
