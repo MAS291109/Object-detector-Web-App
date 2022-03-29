@@ -1,0 +1,14 @@
+
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+.heading:hover{
+    color: white;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
